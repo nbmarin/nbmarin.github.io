@@ -2,6 +2,7 @@
 
 <p>The raw outputs generated from the analysis of the present study include the raw sequence files, software output files, statistical raw data, relevant codes for the command-line interface used and the copy of the full manuscript. These are stored in online cloud storage (herein referred to as repository).</p>
 
+<p> Raw visual files of all the figures and images presented in this study with common image format can be viewable in most computers local image viewer. For QIIME 2 package visualization outputs (file extension: .qzv), these can be viewed via the official QIIME 2 visualization (q2-view) webpage: https://view.qiime2.org/ (accessible as of March 2, 2022). For standard files (documents, texts, portable document format, etc.) can be viewed using basic computer and office suites/software (e.g. Microsoft Office, Adobe Acrobat DC, LibreOffice). Other information in examining these files is stipulated in README.txt for each file category. </p>
 <p>Table A1: List of items in the online repositories with assigned reference code (Appendix Code).</p>
 
 <table>
@@ -52,5 +53,3 @@
 <td>This document discusses additional research procedure/s that was/were conducted to provide relevant supplemental information about the study.</td>
 </tr>
 </tbody>
-
-  <p> Raw visual files of all the figures and images presented in this study with common image format can be viewable in most computers local image viewer. For QIIME 2 package visualization outputs (file extension: .qzv), these can be viewed via the official QIIME 2 visualization (q2-view) webpage: https://view.qiime2.org/ (accessible as of March 2, 2022). For standard files (documents, texts, portable document format, etc.) can be viewed using basic computer and office suites/software (e.g. Microsoft Office, Adobe Acrobat DC, LibreOffice). Other information in examining these files is stipulated in README.txt for each file category. </p>
