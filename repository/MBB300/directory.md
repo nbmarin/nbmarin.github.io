@@ -4,6 +4,8 @@
 
 <p>Author: Nicole B. Marin</p>
 <p>Program: Master of Science in Molecular Biology and Biotechnology (Minor in Biochemistry)</p>
+<p>Major Professor: Maria Carmina C. Manuel, Ph.D.</p>
+<p>Project Leader: Prof. Loinda R. Baldrias, DVM, MVS, Ph.D.</p>
 <p>Institution: University of the Philippines Los Baños, College, Los Baños, 4031 Laguna</p>
 
 <p>List of Online Appendices and Supplementals</p>
