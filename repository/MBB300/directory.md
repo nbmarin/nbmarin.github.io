@@ -16,5 +16,5 @@
 
 <p>Appendix C: <a href="AppendixC">Documentations</a>.</p>
 
-<b> NOTICE: </b>
-<p> - The links and link assignments are still being constructed. </p>
+<b> NOTICE/UPDATE: </b>
+<p> - The links and link assignments are still being constructed. (May 5th, 2022) </p>
