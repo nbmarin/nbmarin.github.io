@@ -1,4 +1,4 @@
-<h1>Online Data Repository for MBB 300: Master's Thesis</h1>
+<h1>Data Repository for MBB 300: Master's Thesis</h1>
 
 <p>Thesis Title: "Uncovering the gut microbiome of the Philippine native chicken (<i>Gallus gallus domesticus</i>, Linnaeus 1957) by metabarcoding of the bacterial small subunit (16S SSU) ribosomal RNA gene"</p>
 
