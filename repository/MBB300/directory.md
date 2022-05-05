@@ -3,7 +3,7 @@
 <p>Thesis Title: "Uncovering the gut microbiome of the Philippine native chicken (<i>Gallus gallus domesticus</i>, Linnaeus 1957) by metabarcoding of the bacterial small subunit (16S SSU) ribosomal RNA gene"</p>
 
 <p>Author: Nicole B. Marin</p>
-<p>Author: Master of Science in Molecular Biology and Biotechnology (Minor in Biochemistry)</p>
+<p>Program: Master of Science in Molecular Biology and Biotechnology (Minor in Biochemistry)</p>
 <p>Institution: University of the Philippines Los Baños, College, Los Baños, 4031 Laguna</p>
 
 <p>List of Online Appendices and Supplementals</p>
