@@ -8,7 +8,7 @@
 
 <p>List of Online Appendices and Supplementals</p>
 
-<p>Appendix A: <a href="nbmarin.github.io">Online Repository of Raw Output Files</a>.</p>
+<p>Appendix A: <a href="nbmarin.github.io/repository/MBB300/AppendixA">Online Repository of Raw Output Files</a>.</p>
 
 <p>Appendix B: <a href="nbmarin.github.io">List of Supplementary Data</a>.</p>
 
