@@ -1,6 +1,6 @@
 <h1>Data Repository for MBB 300: Master's Thesis</h1>
 
-<p>Thesis Title: "Uncovering the gut microbiome of the Philippine native chicken (<i>Gallus gallus domesticus</i>, Linnaeus 1957) by metabarcoding of the bacterial small subunit (16S SSU) ribosomal RNA gene"</p>
+<p>Thesis Title: "Uncovering the gut microbiome of the Philippine native chicken (<i>Gallus gallus domesticus</i>, Linnaeus 1758) by metabarcoding of the bacterial small subunit (16S SSU) ribosomal RNA gene"</p>
 
 <p>Author: Nicole B. Marin</p>
 <p>Program: Master of Science in Molecular Biology and Biotechnology (Minor in Biochemistry)</p>
